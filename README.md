@@ -1,7 +1,13 @@
 # Primer Proyecto - Data Analytics
 
-Nombre del proyecto: Análisis de ventas de autos usados en Emiratos Árabes Unidos
-Nombre del Autor: Miguel Angel Di Rocco
+## 1. Informe del Analisis (PDF)
+Este documento contiene: 
+Descripción de la temática de los datos siguiendo la metodología SMART. 
+Descripción de la hipótesis (análisis que se realizará).
 
-Este repositorio contiene la primera entrega de la carrera de Data Analytics realizada en Coderhouse
-Impartida por Leonardo Óscar Martín Claro [Profesor] ​​e Ignacio Gastón Colzani [Tutor]
+## 2. Archivo Excel original
+Archivo con el dataset original
+
+## 3. Version online del archivo Excel (Google Sheets)
+Este archivo esta disponible con permisos de comentario, para facilitar la revision:
+https://docs.google.com/spreadsheets/d/1HJPnSGtlBVknjV-eTZVmF5WobMu1xoKXMoDB0DodexE/edit?usp=sharing
