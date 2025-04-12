@@ -11,3 +11,5 @@ Archivo con el dataset original
 ## 3. Version online del archivo Excel (Google Sheets)
 Este archivo esta disponible con permisos de comentario, para facilitar la revision:
 https://docs.google.com/spreadsheets/d/1HJPnSGtlBVknjV-eTZVmF5WobMu1xoKXMoDB0DodexE/edit?usp=sharing
+
+## 4. EXTRAS: Se sumo una carpeta con dos dataset adicionales
